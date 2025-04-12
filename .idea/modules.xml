@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Deberes opcionales.iml" filepath="$PROJECT_DIR$/.idea/Deberes opcionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio2Stack/Ejercicio2Stack.iml" filepath="$PROJECT_DIR$/Ejercicio2Stack/Ejercicio2Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioStack1/EjercicioStack1.iml" filepath="$PROJECT_DIR$/EjercicioStack1/EjercicioStack1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PryColas1/PryColas1.iml" filepath="$PROJECT_DIR$/PryColas1/PryColas1.iml" />
+    </modules>
+  </component>
+</project>
